@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+
+}
+.container{
+    border: 6px solid black;
+    display: flex;
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    /* flex-flow: row wrap;
+    justify-content: space-around; */
+    height: 800px;
+    /* align-items: baseline; */
+    /* flex-direction: column; */
+    /* align-content: flex-start; */
+}
+.flex-item{
+    color: white;
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+}
+.item-1{
+    background: red;
+    /* padding-bottom: 2rem;  */
+}
+.item-2{
+    background: blue; 
+}
+.item-3{
+    background: green;
+}
+.item-4{
+    background: yellow;
+}
+.item-5{
+    background: violet;
+}
+.item-6{
+    background: indigo;
+}
+.item-7{
+    background: orange;
+}
+.item-8{
+    background: orangered;
+}
+.item-9{
+    background: rebeccapurple;
+}
